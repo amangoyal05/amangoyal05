@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @amangoyal05
+<b><center>Hi, I’m Aman.</b></center>
+<hr>
 - 👀 I’m interested in watching cat videos, anime and enjoying time with friends.
 - 🌱 I’m currently learning about the universe and how to make machines think on their own.
 - 📫 How to reach me? You can send me an email on: aman.goyal16sms@gmail.com or contact me on LinkedIn : <a href = "https://www.linkedin.com/in/amangoyal05/">Aman Goyal</a>
