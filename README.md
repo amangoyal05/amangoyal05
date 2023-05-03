@@ -8,7 +8,8 @@ I’m interested in watching cat videos, anime and enjoying time with friends. I
 <img src="https://github-readme-stats.vercel.app/api?username=amangoyal05&show_icons=true&theme=prussian" width="400">
 </img>
 </h1>
-How to reach me? You can send me an email on: aman.goyal16sms@gmail.com or contact me on LinkedIn : <a href = "https://www.linkedin.com/in/amangoyal05/">Aman Goyal</a>
+Contact me:
+<a href="https://icons8.com/icon/P7UIlhbpWzZm/gmail">
 <!--- 
 amangoyal05/amangoyal05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
