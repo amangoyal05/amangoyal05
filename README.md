@@ -8,7 +8,7 @@ I’m interested in watching cat videos, anime and enjoying time with friends. I
 <img src="https://github-readme-stats.vercel.app/api?username=amangoyal05&show_icons=true&theme=prussian" width="400">
 </img>
 </h1>
-Contact me:
+Contact me:<br>
 <a href="aman.goyal16sms@gmail.com"><img src="https://icons8.com/icon/P7UIlhbpWzZm/gmail"></img></a>
 <a href="https://www.linkedin.com/in/amangoyal05/"><img src="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin"></img></a>
 <!--- 
