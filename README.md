@@ -9,7 +9,7 @@ I’m interested in watching cat videos, anime and enjoying time with friends. I
 </img>
 </h1>
 Contact me:<br>
-<a href="aman.goyal16sms@gmail.com"><img src="https://icons8.com/icon/P7UIlhbpWzZm/gmail"></img></a>
+<a href="mailto:aman.goyal16sms@gmail.com"><img src="https://icons8.com/icon/P7UIlhbpWzZm/gmail"></img></a>
 <a href="https://www.linkedin.com/in/amangoyal05/"><img src="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin"></img></a>
 <!--- 
 amangoyal05/amangoyal05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
