@@ -1,4 +1,6 @@
+<p align="center">
 <b><center>Hi, I’m Aman.</b></center>
+ </p> 
 <hr>
 - 👀 I’m interested in watching cat videos, anime and enjoying time with friends.
 - 🌱 I’m currently learning about the universe and how to make machines think on their own.
