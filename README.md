@@ -7,7 +7,7 @@ I’m interested in watching cat videos, anime and enjoying time with friends. I
 <h1 align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=amangoyal05&show_icons=true&theme=prussian" width="400" height="200">
 </img><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amangoyal05&hide_progress=false&layout=pie" width="800" height="400">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amangoyal05&hide_progress=false&layout=pie&theme=prussian" width="800" height="400">
 </h1>
 <br>
 Feel free to contact me -<br>
