@@ -1,9 +1,10 @@
-<h1 align="center">
-<b>Hi, I’m Aman.</b>
+<h1>
+<b>Hello!</b>
 </h1> 
 <hr>
-I’m interested in watching cat videos, anime and enjoying time with friends. I’m currently learning about the universe and how to make machines think on their own.
+I am Aman. I am currently in a final year student at University of Delhi.
 <br> I am a mentor at <a href="https://www.mentorswithoutborders.net/">MentorsWithoutBorder</a>, and member of the IEEE. I have prior experience in Machine Learning and NLP, and have worked on research papers for the same.
+<hr>
 <h1 align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=amangoyal05&show_icons=true&theme=prussian" width="400" height="200">
 </img><br>
